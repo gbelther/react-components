@@ -19,7 +19,7 @@ module.exports = merge(webpackCommon, {
       directory: './dist',
     },
     devMiddleware: {
-      writeToDist: true,
+      writeToDisk: true,
     },
     historyApiFallback: true,
   },
