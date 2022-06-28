@@ -9,7 +9,7 @@
     "skipLibCheck": true,
     "jsx": "react-jsx",
     "resolveJsonModule": true,
-    "rootDirs": ["src", "tests"],
+    "rootDirs": ["src", "tests", "storybook"],
     "baseUrl": "src",
     "paths": {
       "@/*": ["*"],
