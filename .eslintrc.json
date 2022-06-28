@@ -18,6 +18,7 @@
     "sourceType": "module"
   },
   "plugins": ["react", "@typescript-eslint"],
+  "files": ["*.ts", "*.tsx"],
   "rules": {
     "indent": ["error", "tab"],
     "linebreak-style": ["error", "unix"],
